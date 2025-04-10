@@ -40,3 +40,8 @@ This project simulates a Google search engine interface using HTML and CSS. The 
     ```
 2. Open the `index.html` file in your browser to view the project.
 ---
+
+### Contributing 🤝
+Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
+
+---
